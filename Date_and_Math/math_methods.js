@@ -1,0 +1,7 @@
+console.log(Math.abs(99.00100))
+console.log(Math.round(9.1002))
+console.log(Math.min(1,0.9,33,890))
+console.log(Math.max(0.9,7,99,100,257))
+console.log(Math.ceil(24.5))
+console.log(Math.floor(24.0))
+console.log(Math.round(Math.random()*10))
