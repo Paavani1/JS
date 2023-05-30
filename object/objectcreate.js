@@ -1,5 +1,6 @@
 var courses=
-   {coursename1:"maths",
+   {
+    coursename1:"maths",
    coursename2:"Js",
    courseyear:"1",
    skillcourses:["selenium","java"],

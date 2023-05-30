@@ -1,10 +1,10 @@
 //Rest parameter
-function student(sname,sid,sphno,...studentdetails){
+function student(...studentdetails){
     
    console.log(studentdetails) 
     
 }
 student("js",01,123445666,"o-ve","female")
-var{sname,sid,sphno,...otherdetails}={sname:"student1",sid:02,bloodgroup:"b-ve",gender:"female"}
+var {sname,sid,sphno,...otherdetails}={bloodgroup:"b-ve",sname:"student1",sid:02,gender:"female"}
 console.log(otherdetails)
 

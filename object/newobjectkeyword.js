@@ -19,4 +19,4 @@ console.log(fruits.cost())
 console.log(fruits.configuration.mango)
 console.log(fruits.configuration.newfruits[0])
 fruits.configuration.newfruits=["watermelon"]
-console.log(fruits.configuration.newfruits[0])
+//console.log(fruits.configuration.newfruits[1])

@@ -1,5 +1,5 @@
 var 
-=10
+a=10
 console.log(a)
 var b="hi"
 console.log(b)

@@ -1,11 +1,13 @@
-var array1=[10,20,30,40,50,60]
-var array2=[90,30,90,30]
-var arr=[...array1,60]
+var array1=[20,10,20,30,40,50,10,60]
+var array2=[90,30,90,30,10,20]
+var arr=[...new Set(array1)]//remove duplicates
 console.log(arr)
-var array4=[...array1]
-console.log(array4)
-var array3=[...array1,...array2]
-console.log(array3)
+// var arr=[...array1,60]
+// console.log(arr)
+// var array4=[...array1]
+// console.log(array4)
+// var array3=[...array1,...array2]
+// console.log(array3)
 var a="javascript"
 var a1=[...a]
 console.log(a1)

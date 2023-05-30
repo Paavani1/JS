@@ -2,11 +2,10 @@
 // let x=arr1[2]
 // let y=arr1[3]
 // console.log(x,y)
-// let[u,v]=arr1
+// let [u,v]=arr1
 // console.log(u,v)
-// let[a,,,b]=arr1
+// let [a,,,b]=arr1
 // console.log(a,b)
-
 
 var upskill= {
     f_name :"Javascript",

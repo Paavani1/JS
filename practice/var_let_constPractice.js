@@ -3,7 +3,8 @@
 //     a = 100;
 //     var a =200
 //     console.log(a); //  200
-    
+
+
     //****************************************************************************************/
     
    // console.log(x);   // Cannot access 'x' before initialization //Identifier 'x' has already been declared(let x=35)
